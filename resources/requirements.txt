@@ -1,0 +1,7 @@
+ipdb
+nose
+rednose
+pyflakes
+wsgiref
+WebTest
+Appengine-Fixture-Loader
